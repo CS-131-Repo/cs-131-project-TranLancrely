@@ -6,15 +6,15 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : 
+## Student Name  : Tran, Lancrely
 
-## Student ID    : 
+## Student ID    : 900175851
 
-## Student Email : 
+## Student Email : tranll9665@student.laccd.edu
 
 ## Purpose of Repository
 
-The Purpose of this Repository is to study a specific intrest related to this course, apply that priciple to solve a problem, then present. We can use this page to upload our work. In order to keep things organized I would suggest creating your own folder for a specific topic and working with others in that directory(folder) if you want to work on that topic. I invite anyone who has worked with github before to assist if you know best practices when it comes to colaboration.
+The Purpose of this Repository is to study a specific interest related to this course, apply that priciple to solve a problem, then present. We can use this page to upload our work. In order to keep things organized I would suggest creating your own folder for a specific topic and working with others in that directory(folder) if you want to work on that topic. I invite anyone who has worked with github before to assist if you know best practices when it comes to colaboration.
 
 1. Create a new branch for each new assignment. The name of the branch will be chosen by you but should be related to the assignment.
 2. Complete all the requirements for each assignment.
